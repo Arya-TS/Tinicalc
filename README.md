@@ -22,4 +22,4 @@ TiniCalc is a lightweight and interactive command-line calculator built in Pytho
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/Arya-TS/babycalc.git
+   git clone https://github.com/Arya-TS/Tinicalc.git
